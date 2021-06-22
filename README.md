@@ -8,3 +8,5 @@ Assessment challenges on HackerEarth
 3 . [Employees Burn Out Rate Prediction](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/problems/)
 
 4 . [Carnival Wars](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-selling-price/problems/)
+
+5 . [Air Pollution Index Prediction](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-air-pollution-index-prediction/problems/)
