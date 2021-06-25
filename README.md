@@ -10,3 +10,7 @@ Assessment challenges on HackerEarth
 4 . [Carnival Wars](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-selling-price/problems/)
 
 5 . [Air Pollution Index Prediction](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-air-pollution-index-prediction/problems/)
+
+6 . [Air Plane Severity Prediction](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/problems/)
+
+7 . [DEFCON Level Prediction](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-defcon-level/problems/)
