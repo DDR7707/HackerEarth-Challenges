@@ -14,3 +14,5 @@ Assessment challenges on HackerEarth
 6 . [Air Plane Severity Prediction](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/problems/)
 
 7 . [DEFCON Level Prediction](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-defcon-level/problems/)
+
+8 . [Ad's Success Rate Prediction](https://www.hackerearth.com/challenges/competitive/predict-ad-success-hackerearth-machine-learning-challenge/)
